@@ -112,3 +112,5 @@ scene("gameover", (score, screenshot) => {
 		go("game");
 	});
 });
+
+go("game");
